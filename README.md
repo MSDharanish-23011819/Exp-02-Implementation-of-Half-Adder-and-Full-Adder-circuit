@@ -60,8 +60,8 @@ RTL realization
 
 ### HALF ADDER :
 
+![logic diagram](https://github.com/MSDharanish-23011819/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147139454/5e7dac04-6c2f-430d-981c-3da1ba96c5d3)
 
-![logic diagram](https://github.com/MSDharanish-23011819/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147139454/003735ff-be27-4c9d-98b0-f0adb8e9dfe5)
 
 
 ### FULL ADDER :
@@ -74,8 +74,9 @@ RTL realization
 
 ### HALF ADDER :
 
+![output](https://github.com/MSDharanish-23011819/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147139454/948fa2fe-e6aa-4dea-9b4e-5062fdd85290)
 
-![output](https://github.com/MSDharanish-23011819/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147139454/568c4a8b-170b-4e27-b323-2738a3fcead6)
+
 
 ### FULL ADDER :
 
